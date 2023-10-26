@@ -1,4 +1,4 @@
 # First-demo
 This is My First Git Repository.
 <br>
-Author - Samruddhi Talkit
+Author - Samruddhi Talkit(Samu)
